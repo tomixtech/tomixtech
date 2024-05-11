@@ -1,16 +1,27 @@
-### Hi there 👋
+# 🍃 Salut ! 
 
-<!--
-**tomixtech/tomixtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Administrateur réseau informatique
+- Fervent supporter de Cisco (qui surpasse complètement TP link, avis qui n'engage que moi)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 A Propos de moi
+
+J'ai 18 ans, je suis actuellement en cours de formation en Baccalauréat Professionnel Système Numérique option C (Réseaux Informatiques Systèmes Communicants). 
+Je suis spécialisé dans la gestion & l'administration de réseaux informatiques d'entreprises. 
+
+
+## 💻 Mes compétences
+
+- Création de réseau informatique
+- Configuration de routeur / switch
+- Installation de serveur informatique
+- Maintenance sur ordinateur 
+
+## 🇪🇺 Langues 
+
+- Français 🇫🇷 (Je suis né en france) 
+- Anglais 🇬🇧 (Niveau intermédiaire) 
+
+## 💬 Contact 
+
+- [hello@tomix.tech](mailto:hello@tomix.tech)
