@@ -24,4 +24,4 @@ Je suis spécialisé dans la gestion & l'administration de réseaux informatique
 
 ## 💬 Contact 
 
-- [hello@tomix.tech](mailto:hello@tomix.tech)
+- [tom.leroy@whois-bot.com](mailto:tom.leroy@whois-bot.com)
